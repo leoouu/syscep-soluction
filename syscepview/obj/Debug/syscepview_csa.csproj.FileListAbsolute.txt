@@ -1,0 +1,33 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\bin\Debug\syscepview.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\bin\Debug\syscepview.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\bin\Debug\syscepcontroller.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\bin\Debug\syscepmodel.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\bin\Debug\syscepcontroller.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\bin\Debug\syscepmodel.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\obj\Debug\syscepview_csa.csproj.AssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\obj\Debug\syscepview_csa.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\obj\Debug\syscepvi.2AF67771.Up2Date
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\obj\Debug\syscepview.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepview\obj\Debug\syscepview.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepview.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepview.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepcontroller.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepmodel.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepcontroller.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepmodel.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepview_csa.csproj.AssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepview_csa.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepvi.2AF67771.Up2Date
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepview.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepview.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepview.dll
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepview.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepcontroller.dll
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepmodel.dll
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepcontroller.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\bin\Debug\syscepmodel.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepview_csa.csproj.AssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepview_csa.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepvi.2AF67771.Up2Date
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepview.dll
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepview\obj\Debug\syscepview.pdb

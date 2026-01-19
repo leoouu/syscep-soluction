@@ -1,0 +1,18 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\bin\Debug\syscepcontroller.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\bin\Debug\syscepcontroller.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\bin\Debug\syscepmodel.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\bin\Debug\syscepmodel.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\obj\Debug\syscepcontroller.csproj.AssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\obj\Debug\syscepcontroller.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\obj\Debug\syscepco.99C07972.Up2Date
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\obj\Debug\syscepcontroller.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepcontroller\obj\Debug\syscepcontroller.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\bin\Debug\syscepcontroller.dll
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\bin\Debug\syscepcontroller.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\bin\Debug\syscepmodel.dll
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\bin\Debug\syscepmodel.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\obj\Debug\syscepcontroller.csproj.AssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\obj\Debug\syscepcontroller.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\obj\Debug\syscepco.99C07972.Up2Date
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\obj\Debug\syscepcontroller.dll
+C:\Users\milto\OneDrive\Área de Trabalho\hihi\Faculdade\4 Semestre\Arquitetura de Software\Arquitetura\soluction-syscep\syscepcontroller\obj\Debug\syscepcontroller.pdb

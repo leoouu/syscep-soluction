@@ -1,0 +1,6 @@
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepmodel\bin\Debug\syscepmodel.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepmodel\bin\Debug\syscepmodel.pdb
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepmodel\obj\Debug\syscepmodel.csproj.AssemblyReference.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepmodel\obj\Debug\syscepmodel.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepmodel\obj\Debug\syscepmodel.dll
+C:\Users\milto\OneDrive\Área de Trabalho\Arq\soluction-syscep\syscepmodel\obj\Debug\syscepmodel.pdb
